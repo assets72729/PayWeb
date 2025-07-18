@@ -27,7 +27,7 @@ function handleDownload() {
 function handlePay() {
     showToast("Opening UPI app(s)");
     setTimeout(() => {
-        window.location.href = "upi://pay?pa=dramawave7-1@@okaxis&pn=Joseph%20Tg&mc=0000&mode=02&purpose=00"; // Replace upi id and name keep the format same
+        window.location.href = "upi://pay?pa=dramawave7-1@okaxis&pn=dramawave7-1%20Tg&mc=0000&mode=02&purpose=00"; // Replace upi id and name keep the format same
     }, 3000);
 }
 
