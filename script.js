@@ -37,7 +37,7 @@ function handlePay() {
 const paymentAddresses = {
     paypal: 'https://paypal.me/JosephNkks', // Update Paypal value
     binance: '486968757', // Update Binance Pay value
-    coffee: 'https://buymeacoffee.com/JosephNkkwsl' // Update Buy me coffe value
+    coffee: 'https://buymeacoffee.com/joseph237' // Update Buy me coffe value
 };
 
 document.addEventListener('DOMContentLoaded', function () {
