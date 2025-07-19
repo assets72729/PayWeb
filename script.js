@@ -16,7 +16,7 @@ function handleDownload() {
     showToast("Wait");
     setTimeout(() => {
         const link = document.createElement("a");
-        link.href = "https://graph.org/file/5f6b6ee64bbc86b57ee4b-656e704358fdf77954.jpg";
+        link.href = "https://graph.org/file/debebaf83177c11b18b49-8e2ca4727772415eb5.jpg";
         link.download = "qr";
         document.body.appendChild(link);
         link.click();
